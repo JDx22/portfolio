@@ -1,3 +1,10 @@
 h1 {
-    color: red;
-  }
+  color: rgb(173, 173, 241);
+}
+p{
+color: rgb(242, 250, 168);
+}
+body {
+background-color: rgb(173, 225, 238);
+background-image: url("./photos/sunrise.jpg");
+}
